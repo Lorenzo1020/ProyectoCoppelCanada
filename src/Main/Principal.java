@@ -7,8 +7,6 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		System.out.println("Hola mundo");
 
 		// Crear mi coleccion de objeto
 		Zapatos zapato1 = new Zapatos("Flexi", 27, 2500, "Formal");
